@@ -1,0 +1,9 @@
+# 运行产物（可由 00_generate_demo_data.py 重建，不入库）
+text_raw/
+text_clean/
+raw_reports/
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
